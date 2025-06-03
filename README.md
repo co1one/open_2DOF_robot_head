@@ -47,7 +47,7 @@ Modular, extensible, and continuously updated to support multiple robot types.
 
 6. **Fix the `camera_mount.stl`** to the pitch motor by aligning it with both the **idler** and **output horn**, using **eight screws**.
 
-7. **Mount the camera module** (Intel RealSense D455 or ZED Mini) into the camera mount.
+7. **Mount the camera module** (Intel RealSense D435, D455 or ZED Mini) into the camera mount.
 
 8. **Connect both motors in a serial bus**, and plug into the **U2D2 communication board**, ensuring regulated **12V power** is supplied.
 ---
