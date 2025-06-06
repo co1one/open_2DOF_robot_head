@@ -11,8 +11,12 @@ Modular, extensible, and continuously updated to support multiple robot types.
 
 <p align="center">
    <img src="g1_unitree/g1_real.gif" width="30%" alt="G1 Head Front View"/>
-  <img src="g1_unitree/g1_real.png" width="30%" alt="G1 Head Front View"/>
-  <img src="g1_unitree/g1.png" width="33%" alt="G1 Head Side View"/>
+  <img src="g1_unitree/g1_2dof_head_sim.png" width="40%" alt="G1 Head Side View"/>
+</p>
+
+<p align="center">
+   <img src="g1_unitree/g1_real.png" width="31%" alt="G1 Head Front View"/>
+  <img src="g1_unitree/g1.png" width="35%" alt="G1 Head Side View"/>
 </p>
 
 ### 📦 Bill of Materials (BOM)
